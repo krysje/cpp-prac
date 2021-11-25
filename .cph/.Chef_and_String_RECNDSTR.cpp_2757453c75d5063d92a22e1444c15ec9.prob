@@ -1,0 +1,1 @@
+{"name":"Local: Chef_and_String_RECNDSTR","url":"c:\\Users\\amanb\\Desktop\\cpp\\Chef_and_String_RECNDSTR.cpp","tests":[{"id":1611944422952,"input":"4\na\nab\nabcd\naaaaa","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\amanb\\Desktop\\cpp\\Chef_and_String_RECNDSTR.cpp","group":"local","local":true}
